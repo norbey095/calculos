@@ -1,0 +1,2 @@
+Proyecto realizado en C#, es uno de los primeros proyectos realizados, que hace diferentes operaciones, la primera realiza la suma de los tres valores ingresados,
+la segunda realiza la conversión de pesos a dolares de acuerdo a el valor del dolar quemado en el codigo, el tercero realiza un calculo de valor pagado por vacaciones

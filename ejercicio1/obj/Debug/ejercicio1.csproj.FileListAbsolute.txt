@@ -1,0 +1,46 @@
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.SuggestedBindingRedirects.cache
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+D:\alejandro salazar\c++\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form2.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form2.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\ASUS\Desktop\5 Alejo el programador\c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form2.resources
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\5alejo\USB\norbey alejandro\alejo\Censa Tecnica\Poo Medio c#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form2.resources
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\PC\4 Alejo\Repositorio\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
